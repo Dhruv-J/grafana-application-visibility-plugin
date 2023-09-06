@@ -12,7 +12,7 @@ Hash: SHA512
   ],
   "plugin": "theia-grafana-application-visibility-plugin",
   "version": "1.0.0",
-  "time": 1693415779333,
+  "time": 1694043921634,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "vendors-node_modules_mermaid_dist_edges-c959041a_js.js": "81871a2e85e27290172f8cba51b9d17079f5daf1cb7d4c422f6c1eaf04455dd1",
@@ -32,7 +32,7 @@ Hash: SHA512
     "node_modules_mermaid_dist_flowDiagram-v2-e4ef3cbe_js.js": "bf0090e9e7868b31b6497d1c0a12e7d05f38c0da4ac7fe8eb8623126c1e84a0a",
     "vendors-node_modules_mermaid_dist_styles-d0b2ab71_js.js": "3ca2e7a8400f2ba5f16a4b5415fa4e04222ced55e1bfe89cfca05375717e4d6d",
     "vendors-node_modules_mermaid_dist_requirementDiagram-96e78f61_js.js": "55f0c764829d67cf6e494e6564243289f4c8c59a85e51c743c1dcf2dab32fe9e",
-    "plugin.json": "83587aab4127edc41bd8d1d6d5ba581967f03b565e43fdd97341502adad14be1",
+    "plugin.json": "46cf5812718a6b4a5cfe5701b30807633461746b22b689563ca7f4c74a2563dd",
     "vendors-node_modules_mermaid_dist_mindmap-definition-5f036dbb_js.js": "f85b5b5b3b77dfd33d56b971bbb64d18f3ef4b0697b839f7242466f523804585",
     "vendors-node_modules_mermaid_dist_timeline-definition-cbf43e70_js.js": "b6d2f516a1c5f8a6fe3f08372c6fce2eb38627fe6006b365056127df749ec362",
     "vendors-node_modules_mermaid_dist_journeyDiagram-50e783bb_js.js": "d629f863964f4436ff94581e62c09df4c9921f536a9d1ca345ed9a9941c90c20",
@@ -55,10 +55,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrkEARMKAAYFAmTveWMAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm5+j+AgkBsNxUN2NL5i6F54s9UEMOmnLVWIWZHLw38T/qW/7vKNtnWNJl
-0/0+xiMIKPhP3UYh4FePsvKODLY76pevWddyWi8CCQEiHJAD+4mRWChwfe65
-VdwrrXD/qIBdNxq46yOXIIqoCqAkw4XGcutPp7uDyX3QHdkzhe9b1I5qnFrF
-5fbgmJ3gEg==
-=oLwN
+wrgEARMKAAYFAmT5DxEAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5/juAgkBVvS5VPYYJR12Ml85/tmkcjeemoT+AFY68FlGx1Jkxk95izOC
+WGt7/h2/gWKB3rUOLVYkqOtl9UqToGa+eZcD/9YCCOcCqsLOVtAzY3N0Ek6B
+qIfn+/QkG5ebxOMfM90fBrMw1jwTc2/Zj9Zhh5Hqc9tsGG7mczPBLi09aXYI
++BeMN3mi
+=01Oj
 -----END PGP SIGNATURE-----
