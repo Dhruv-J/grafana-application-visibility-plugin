@@ -12,24 +12,53 @@ Hash: SHA512
   ],
   "plugin": "theia-grafana-application-visibility-plugin",
   "version": "1.0.0",
-  "time": 1694059459040,
+  "time": 1694062352311,
   "keyId": "7e4d0c6a708866e7",
   "files": {
+    "vendors-node_modules_mermaid_dist_edges-c959041a_js.js": "81871a2e85e27290172f8cba51b9d17079f5daf1cb7d4c422f6c1eaf04455dd1",
+    "vendors-node_modules_mermaid_dist_stateDiagram-3ac8af33_js.js": "4e1a6c2417292c94c044baceaedb22a17e1de3a3ecd48f46b161911861a39589",
+    "vendors-node_modules_lodash-es_isPlainObject_js-node_modules_mermaid_dist_flowchart-elk-defin-6a8674.js": "5512ed953fed0ff9690950a2b1478c85699cf4321ccc4893ae91b46591267ecc",
+    "vendors-node_modules_mermaid_dist_quadrantDiagram-42727e21_js.js": "71cc1ac6ab088a4d76808ee3976bcfba44a418230a9ca9512ab4f01746b53e62",
+    "node_modules_mermaid_dist_classDiagram-0da88708_js.js": "800669f1a85b2c011bc6ecba599a513c9061a7543e54a2dd78c7b20e1a13a505",
     "LICENSE": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+    "vendors-node_modules_dagre-d3-es_src_dagre-js_label_add-html-label_js-node_modules_mermaid_di-9b63c2.js": "3d0b9eb8f4bada6fa78b23895feb9f569920cfddc0f5b185ce5ec4c42979d2ec",
     "CHANGELOG.md": "ba613d6f914b27dce9ace4d8c0cb074273c9eb6c536d8e7ac24c5ce6ae941fd0",
+    "vendors-node_modules_mermaid_dist_gitGraphDiagram-1dcba3c4_js.js": "7b279739224d2afdf545008d45579828015cc95fcaed45e504d7336d586dd565",
+    "vendors-node_modules_mermaid_dist_flowDiagram-42ba8acc_js.js": "8b51057105a27370464dca70c18ce5f12ff0f7d928bc55233d3f9ebcb0ce294d",
+    "vendors-node_modules_mermaid_dist_createText-b670c180_js.js": "3955687ff26c5448226daf0bbeeb7915e8015d005fd9f507cd331ece706e35ff",
+    "node_modules_mermaid_dist_classDiagram-v2-2f4ae322_js.js": "937ac11bce9a88bc9bf1662c6b47272f3e3b4a7d06aef6cb2183784440bef384",
+    "vendors-node_modules_mermaid_dist_sankeyDiagram-91977475_js.js": "1220d9867dfda7c43e2565c859a49ca3da073322efcd6c45cdcf6093b3d2b622",
+    "vendors-node_modules_mermaid_dist_ganttDiagram-33119f0c_js.js": "5f4aea2dc3a7ce313aaf67e8f821782846c263077971cb42e8d35149e0e4daba",
+    "node_modules_mermaid_dist_flowDiagram-v2-e4ef3cbe_js.js": "bf0090e9e7868b31b6497d1c0a12e7d05f38c0da4ac7fe8eb8623126c1e84a0a",
+    "vendors-node_modules_mermaid_dist_styles-d0b2ab71_js.js": "3ca2e7a8400f2ba5f16a4b5415fa4e04222ced55e1bfe89cfca05375717e4d6d",
+    "vendors-node_modules_mermaid_dist_requirementDiagram-96e78f61_js.js": "55f0c764829d67cf6e494e6564243289f4c8c59a85e51c743c1dcf2dab32fe9e",
     "plugin.json": "a1ed669c3dab8986200ec918df2817899d84ec3820ccf5a133bf2fcc8ebe675a",
+    "vendors-node_modules_mermaid_dist_mindmap-definition-5f036dbb_js.js": "f85b5b5b3b77dfd33d56b971bbb64d18f3ef4b0697b839f7242466f523804585",
+    "vendors-node_modules_mermaid_dist_timeline-definition-cbf43e70_js.js": "b6d2f516a1c5f8a6fe3f08372c6fce2eb38627fe6006b365056127df749ec362",
+    "vendors-node_modules_mermaid_dist_journeyDiagram-50e783bb_js.js": "d629f863964f4436ff94581e62c09df4c9921f536a9d1ca345ed9a9941c90c20",
     "README.md": "b3987f9b10f57ef3d57576a6de42dc5e1ee4ea9aaef8b28d799dee634d96ee2d",
-    "module.js": "239ee0f5947141dbf27b85ffa3d89486c1ff2bea35f816aab48ceb6531cc04b5"
+    "vendors-node_modules_mermaid_dist_c4Diagram-4de0d805_js.js": "748a63cc3e0e4dd7634e46d1aaa6e7bc26cffe3023d6245a23376786804d8be1",
+    "module.js": "8b57735dbbd1789f43952c966c4e66338402973580b83f00723cbe0a6196cb89",
+    "vendors-node_modules_dagre-d3-es_src_dagre_index_js.js": "5afc950afe169d0844f2f68b0ae657bfd076d560a24a50040b7dd1c42ae697d9",
+    "vendors-node_modules_mermaid_dist_pieDiagram-b06a513b_js.js": "c4c5abf14e72bfbf769545819d19a75800a5a5c757a9e1144fe22436753e528f",
+    "vendors-node_modules_mermaid_dist_svgDraw-b48a99d5_js.js": "4af42cbf11a8dd36f15881084c93c567dde0acbc007fe84f0980549d61b40b00",
+    "vendors-node_modules_mermaid_dist_infoDiagram-99aec0e9_js.js": "e80a13f8e76f0608001fe47d31ceb10007d6ba8e56bfdc879f4aa3ae8ba86b96",
+    "vendors-node_modules_mermaid_dist_erDiagram-105a1cb2_js.js": "38f356504c8bf50e96b204d829e891d83ba69c9a7e627d019045ef22e200f943",
+    "vendors-node_modules_mermaid_dist_stateDiagram-v2-ca22f0dc_js.js": "ad00c745af307b303bb87d05a35736449d4cb137fe7dec46f466b7df28d6eee9",
+    "vendors-node_modules_mermaid_dist_sequenceDiagram-342ef5c4_js.js": "18116ecdf305039e1a65d512ec91c7402754d900cd2918cefd81727e8e8c0caf",
+    "vendors-node_modules_mermaid_dist_styles-4fcf332f_js.js": "9a54f29f93651be95519522d4cf480850ab1a963e302c246f73cd929740853ee",
+    "vendors-node_modules_mermaid_dist_index-892ad7fb_js.js": "7c1e6a858611187be5112d344ba25f4ed4511e96df7b8fc866241378e2b3e582",
+    "vendors-node_modules_mermaid_dist_styles-1e36f090_js.js": "366ffee5ceae8114f9d85075497b8195e3a948b16cd49933b9edb22ed19b85e9"
   }
 }
 -----BEGIN PGP SIGNATURE-----
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrgEARMKAAYFAmT5S8MAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm58/LAgdMPJ5MsgJo27z3k+aFRXlgKCMD3AwUW34IpgahXZNcSNDzlKkJ
-DQygFbc/NsQPKLQmsxUhhFZLK18ZYzya8iWgpQIJAYypmKCVyBEEwJha5ytr
-RE227FegFsF92k0ItdXEmLGWQeke6dO6brpGOXIOHBW2wjEKKcyfI6W9A6dV
-jEWNZAo8
-=G5cN
+wrgEARMKAAYFAmT5VxAAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5xVwAgjHSuQkCMgIuUW1GWUFjah+NJP6P9mm/Kggb4xY765OObThX6PJ
+1IJWHjbA8amgjUR5wTyZy+b7zXkUl0YC4lObCQIJAR6Grlz8LTnnVum+NHWG
+FE0RhFd8b73/Rv+RXGEslJllDMOL+vpr+BBKQwlTues3Rcs+WzKhWx9mW5Uk
+L6xcsXPj
+=uPqG
 -----END PGP SIGNATURE-----
